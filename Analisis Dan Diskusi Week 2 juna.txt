@@ -1,0 +1,24 @@
+	Analisis dan Diskusi Week 2
+
+1. Klasifikasi Objek Berdasarkan Warna dengan KNN (Sederhana)
+Konsep: Objek dikelompokkan berdasarkan kesamaan warna.
+Cara Kerja:
+Tentukan warna rata-rata dari suatu objek.
+Bandingkan dengan warna rata-rata objek lain.
+Masukkan objek ke dalam kelompok dengan warna yang paling mirip.
+Catatan: Akurasi bergantung pada seberapa bervariasi warna objek yang dianalisis.
+2. Kombinasi Machine Learning (ML) dan Computer Vision (CV)
+Konsep: Mengajarkan komputer untuk melihat dan memahami gambar atau video.
+Peran ML dalam CV:
+ML membantu CV dalam menginterpretasikan apa yang ada dalam gambar.
+Contoh:
+Pengenalan wajah di foto (CV mendeteksi, ML mengenali).
+Mobil otonom (CV memantau lingkungan, ML menentukan tindakan).
+Tantangan: Memerlukan banyak data serta daya komputasi yang tinggi.
+3. Menggunakan GitHub untuk Version Control
+Konsep: GitHub memungkinkan penyimpanan dan pelacakan perubahan kode secara sistematis.
+Keunggulan:
+Mempermudah kolaborasi tim dalam proyek pengembangan perangkat lunak.
+Memungkinkan rollback ke versi sebelumnya jika terjadi kesalahan.
+Menyediakan cadangan kode agar lebih aman.
+Penting bagi Developer: Wajib dikuasai oleh pengembang perangkat lunak untuk kerja yang lebih efisien dan terstruktur.
